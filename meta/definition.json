@@ -1,0 +1,351 @@
+{
+  "definition": {
+    "learning-objectives": {
+      "Adding a multi-level list": {
+        "learning-objectives": {}
+      },
+      "Creating custom multi level list": {
+        "learning-objectives": {}
+      },
+      "Modifying style of a custom multi level list": {
+        "learning-objectives": {}
+      }
+    },
+    "tags": {
+      "Reading": {
+        "tags": {}
+      },
+      "Videos": {
+        "tags": {}
+      },
+      "Practice": {
+        "tags": {}
+      }
+    }
+  },
+  "items":{
+    "default" : [
+      {
+        "name": "Module 1 - Creating a Multilevel List using List Library",
+        "item-type": "folder",
+        "item-code": "Module_1_-_Creating_a_Multilevel_List_using_List_Library",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Introduction to Multi Level List",
+            "item-type": "resource",
+            "resource": "Chunk.PDF.1",
+            "item-code": "Module_1_-_Creating_a_Multilevel_List_using_List_Library/Introduction_to_Multi_Level_List",
+            "tracking": true
+          },
+          {
+            "name": "How to create Multi Level List",
+            "item-type": "resource",
+            "resource": "Chunk.VIDEO.3",
+            "item-code": "Module_1_-_Creating_a_Multilevel_List_using_List_Library/How_to_create_Multi_Level_List",
+            "tracking": true
+          },
+          {
+            "name": "WD Activity 1.22: Creating a Bulleted List - GO13.WD13.01.1B.06.T1",
+            "item-type": "resource",
+            "resource": "Chunk.SIM.5",
+            "item-code": "Module_0_-_Course_Intro_and_Pretest/WD_Activity_1.22:_Creating_a_Bulleted_List_-_GO13.WD13.01.1B.06.T1",
+            "tracking": true
+          }
+        ]
+      },
+      {
+        "name": "Module 2 - Create a new Multi Level Style",
+        "item-type": "folder",
+        "item-code": "Module_2_-_Create_a_new_Multi_Level_Style",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Create A New Multilevel Style",
+            "item-type": "resource",
+            "resource": "Chunk.PDF.4",
+            "item-code": "Module_2_-_Create_a_new_Multi_Level_Style/Create_A_New_Multilevel_Style",
+            "tracking": true
+          },
+          {
+            "name": "Applying Multilevel Style",
+            "item-type": "resource",
+            "resource": "Chunk.PDF.2",
+            "item-code": "Module_2_-_Create_a_new_Multi_Level_Style/Applying_Multilevel_Style",
+            "tracking": true
+          },
+          {
+            "name": "Modifying a Multilevel List",
+            "item-type": "resource",
+            "resource": "Chunk.VIDEO.8",
+            "item-code": "Module_2_-_Create_a_new_Multi_Level_Style/Modifying_a_Multilevel_List",
+            "tracking": true
+          },
+          {
+            "name": "Customizing multilevel lists",
+            "item-type": "resource",
+            "resource": "Chunk.PDF.9",
+            "item-code": "Module_2_-_Create_a_new_Multi_Level_Style/Customizing_multilevel_lists",
+            "tracking": true
+          },
+          {
+            "name": "WD Activity 1.23: Creating a Numbered List - GO13.WD13.01.1B.07.T1",
+            "item-type": "resource",
+            "resource": "Chunk.SIM.6",
+            "item-code": "Module_2_-_Create_a_new_Multi_Level_Style/WD_Activity_1.23:_Creating_a_Numbered_List_-_GO13.WD13.01.1B.07.T1",
+            "tracking": true
+          },
+          {
+            "name": "WD Activity 1.24: Customizing Bullets - GO13.WD13.01.1B.08.T1",
+            "item-type": "resource",
+            "resource": "Chunk.SIM.7",
+            "item-code": "Module_2_-_Create_a_new_Multi_Level_Style/WD_Activity_1.24:_Customizing_Bullets_-_GO13.WD13.01.1B.08.T1",
+            "tracking": true
+          }
+        ]
+      },
+      {
+        "name": "Module 3 - End of Course Assessment",
+        "item-type": "folder",
+        "item-code": "Module_3_-_End_of_Course_Assessment",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Question 1",
+            "item-type": "resource",
+            "resource": "Chunk.QUIZ.10.1",
+            "item-code": "Module_3_-_End_of_Course_Assessment/Question_1",
+            "tracking": true
+          },
+          {
+            "name": "Question 2",
+            "item-type": "resource",
+            "resource": "Chunk.QUIZ.10.2",
+            "item-code": "Module_3_-_End_of_Course_Assessment/Question_2",
+            "tracking": true
+          },
+          {
+            "name": "Question 3",
+            "item-type": "resource",
+            "resource": "Chunk.QUIZ.10.3",
+            "item-code": "Module_3_-_End_of_Course_Assessment/Question_3",
+            "tracking": true
+          },
+          {
+            "name": "Question 4",
+            "item-type": "resource",
+            "resource": "Chunk.QUIZ.10.4",
+            "item-code": "Module_3_-_End_of_Course_Assessment/Question_4",
+            "tracking": true
+          },
+          {
+            "name": "Question 5",
+            "item-type": "resource",
+            "resource": "Chunk.QUIZ.10.5",
+            "item-code": "Module_3_-_End_of_Course_Assessment/Question_5",
+            "tracking": true
+          }
+        ]
+      }
+    ]
+  },
+  "resources": {
+    "generic": {
+      "Chunk.PDF.1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Create_A_Multi_Level_List.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Adding a multi-level list"
+        ]
+      },
+      "Chunk.PDF.2": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Applying_Multilevel_Style.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Creating custom multi level list"
+        ]
+      },
+      "Chunk.VIDEO.3": {
+        "sub-type": "md",
+        "tags": [
+          "Video"
+        ],
+        "md": {
+          "url": "youtube_qPqLUxAUvXM.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Adding a multi-level list"
+        ]
+      },
+      "Chunk.PDF.4": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Create_A_New_Multilevel_Style.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Creating custom multi level list"
+        ]
+      },
+      "Chunk.SIM.5": {
+        "sub-type": "md",
+        "tags": [
+          "Practice"
+        ],
+        "md": {
+          "url": "GO13_WD13_01_1B_06_T1.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Adding a multi-level list"
+        ]
+      },
+      "Chunk.SIM.6": {
+        "sub-type": "md",
+        "tags": [
+          "Practice"
+        ],
+        "md": {
+          "url": "GO13_WD13_01_1B_07_T1.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Creating custom multi level list"
+        ]
+      },
+      "Chunk.SIM.7": {
+        "sub-type": "md",
+        "tags": [
+          "Practice"
+        ],
+        "md": {
+          "url": "GO13_WD13_01_1B_08_T1.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Modifying style of a custom multi level list"
+        ]
+      },
+      "Chunk.VIDEO.8": {
+        "sub-type": "md",
+        "tags": [
+          "Videos"
+        ],
+        "md": {
+          "url": "youtube_3SCMIGvzwsE.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Modifying style of a custom multi level list"
+        ]
+      },
+      "Chunk.PDF.9": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Customizing_multilevel_lists.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Modifying style of a custom multi level list"
+        ]
+      },
+      "Chunk.QUIZ.10.1": {
+        "sub-type": "md",
+        "tags": [
+          "Test"
+        ],
+        "md": {
+          "url": "Chunk_QUIZ_10_1.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Adding a multi-level list"
+        ]
+      },
+      "Chunk.QUIZ.10.2": {
+        "sub-type": "md",
+        "tags": [
+          "Test"
+        ],
+        "md": {
+          "url": "Chunk_QUIZ_10_2.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Creating custom multi level list"
+        ]
+      },
+      "Chunk.QUIZ.10.3": {
+        "sub-type": "md",
+        "tags": [
+          "Test"
+        ],
+        "md": {
+          "url": "Chunk_QUIZ_10_3.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Modifying style of a custom multi level list"
+        ]
+      },
+      "Chunk.QUIZ.10.4": {
+        "sub-type": "md",
+        "tags": [
+          "Test"
+        ],
+        "md": {
+          "url": "Chunk_QUIZ_10_4.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Adding a multi-level list",
+          "Creating custom multi level list"
+        ]
+      },
+      "Chunk.QUIZ.10.5": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chunk_QUIZ_10_5.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Adding a multi-level list",
+          "Creating custom multi level list"
+        ]
+      }
+    },
+    "test": {},
+    "ebook": {}
+  },
+  "meta": {
+    "schema": 1,
+    "title": "Create and Modify a Multi Level List",
+    "author": "Compro",
+    "thumbnailsmall": "cover.jpg",
+    "thumbnaillarge": "cover.jpg",
+    "description": "",
+    "producttype": "courseware"    
+  }
+}
