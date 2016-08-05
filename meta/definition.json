@@ -20,6 +20,9 @@
       },
       "Practice": {
         "tags": {}
+      },
+      "Test": {
+        "tags": {}
       }
     }
   },
@@ -49,7 +52,7 @@
             "name": "WD Activity 1.22: Creating a Bulleted List - GO13.WD13.01.1B.06.T1",
             "item-type": "resource",
             "resource": "Chunk.SIM.5",
-            "item-code": "Module_0_-_Course_Intro_and_Pretest/WD_Activity_1.22:_Creating_a_Bulleted_List_-_GO13.WD13.01.1B.06.T1",
+            "item-code": "Module_1_-_Creating_a_Multilevel_List_using_List_Library/WD_Activity_1.22:_Creating_a_Bulleted_List_-_GO13.WD13.01.1B.06.T1",
             "tracking": true
           }
         ]
@@ -180,7 +183,7 @@
       "Chunk.VIDEO.3": {
         "sub-type": "md",
         "tags": [
-          "Video"
+          "Videos"
         ],
         "md": {
           "url": "youtube_qPqLUxAUvXM.md"
@@ -342,6 +345,7 @@
   "meta": {
     "schema": 1,
     "title": "Create and Modify a Multi Level List",
+    "code": "createandmodifymultilevellist",
     "author": "Compro",
     "thumbnailsmall": "cover.jpg",
     "thumbnaillarge": "cover.jpg",
